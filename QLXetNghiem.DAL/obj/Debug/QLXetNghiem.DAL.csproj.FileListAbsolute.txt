@@ -1,0 +1,12 @@
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\QLXetNghiem.DAL.dll.config
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\QLXetNghiem.DAL.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\QLXetNghiem.DAL.pdb
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\EntityFramework.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\EntityFramework.xml
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\obj\Debug\QLXetNghiem.DAL.csproj.AssemblyReference.cache
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\obj\Debug\QLXetNghiem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\obj\Debug\QLXetNgh.835EB724.Up2Date
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\obj\Debug\QLXetNghiem.DAL.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.DAL\obj\Debug\QLXetNghiem.DAL.pdb

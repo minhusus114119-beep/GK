@@ -1,0 +1,15 @@
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\obj\Debug\QLXetNghiem.BUS.csproj.AssemblyReference.cache
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\obj\Debug\QLXetNghiem.BUS.csproj.CoreCompileInputs.cache
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.BUS.dll.config
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.BUS.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.BUS.pdb
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\EntityFramework.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.DAL.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.DAL.pdb
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\QLXetNghiem.DAL.dll.config
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\EntityFramework.xml
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\obj\Debug\QLXetNgh.21922C57.Up2Date
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\obj\Debug\QLXetNghiem.BUS.dll
+C:\Users\LapCuaMinh\source\repos\QLXetNghiem\QLXetNghiem.BUS\obj\Debug\QLXetNghiem.BUS.pdb
